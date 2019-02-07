@@ -1,0 +1,129 @@
+{
+  "codeReferences": {
+    "npm": [
+      {
+        "title": "vue-cli-plugin-browser-extension",
+        "author": "adambullmer",
+        "url": "https://www.npmjs.com/package/vue-cli-plugin-browser-extension"
+      }
+    ],
+    "stackOverflow": [
+      {
+        "title": "Make a drop-down menu scrollable",
+        "author": "Rohan Kumar",
+        "url": "https://stackoverflow.com/questions/21983819/making-a-drop-down-menu-scrollable"
+      },
+      {
+        "title": "How to clear state in vuex store?",
+        "author": "Michael Horojanski",
+        "url": "https://stackoverflow.com/questions/42295340/how-to-clear-state-in-vuex-store"
+      },
+      {
+        "title": "How do I right align div elements?",
+        "author": "Mariusz Jamro",
+        "url": "https://stackoverflow.com/questions/7693224/how-do-i-right-align-div-elements/7693264#7693264"
+      },
+      {
+        "title": "Remove padding from columns in Bootstrap 3",
+        "author": "MackieeE",
+        "url": "https://stackoverflow.com/questions/19562903/remove-padding-from-columns-in-bootstrap-3"
+      },
+      {
+        "title": "Vue.js data-bind style backgroundImage not working",
+        "author": "David K. Hess",
+        "url": "https://stackoverflow.com/questions/35242272/vue-js-data-bind-style-backgroundimage-not-working"
+      }
+    ],
+    "github": [
+      {
+        "title": "[Q] is there a way to vertically align an element to the bottom of the containing column?",
+        "author": "ak5",
+        "url": "https://github.com/jgthms/bulma/issues/407"
+      }
+    ],
+    "w3Schools": [
+      {
+        "title": "How TO - Hero Image",
+        "author": "n/a",
+        "url": "https://www.w3schools.com/howto/howto_css_hero_image.asp"
+      }
+    ]
+  },
+  "imageReferences": {
+    "flatIcon": [
+      {
+        "title": "Like16",
+        "author": "Flat Icon",
+        "url": "https://www.flaticon.com/search?word=like"
+      },
+      {
+        "title": "Like32",
+        "author": "Flat Icon",
+        "url": "https://www.flaticon.com/search?word=like"
+      },
+      {
+        "title": "Like128",
+        "author": "Flat Icon",
+        "url": "https://www.flaticon.com/search?word=like"
+      }
+    ],
+    "unsplash": [
+      {
+        "title": "lacie-slezak-526166-unsplash.jpg",
+        "author": "Lacie Slezak",
+        "url": "https://unsplash.com/photos/7yqyQQXgOT8"
+      }
+    ],
+    "4vector": [
+      {
+        "title": "favicon.ico",
+        "author": "4vector",
+        "url": "https://4vector.com/iraw/free-vector-sr_063246_sr.png"
+      }
+    ]
+  },
+  "tutorialReferences": {
+    "google": [
+      {
+        "title": "What are extensions?",
+        "author": "Google Developers",
+        "url": "https://developer.chrome.com/extensions"
+      }
+    ],
+    "medium": [
+      {
+        "title": "Best HTML, CSS, Javascript Practice : Chrome Extension",
+        "author": "Jungwon Sea",
+        "url": "https://medium.com/@thejungwon/best-html-css-javascript-practice-chrome-extension-ae4e5e7839e"
+      }
+    ],
+    "cushion": [
+      {
+        "title": "Reactive Time with Vue.js",
+        "author": "Jonnie Hallman",
+        "url": "https://cushionapp.com/journal/reactive-time-with-vuejs"
+      }
+    ],
+    "vue.js": [
+      {
+        "title": "TodoMVC",
+        "author": "Evan You",
+        "url": "https://vuejs.org/v2/examples/todomvc.html"
+      }
+    ],
+    "codeBurst.io": [
+      {
+        "title": "Build a Simple Todo App with Vue.js and Vuex 2.0",
+        "author": "paadams",
+        "url": "https://codeburst.io/build-a-simple-todo-app-with-vue-js-1778ae175514"
+      }
+    ],
+    "codeMentor.io": [
+      {
+        "title": "How to create a plugin in Vue.js",
+        "author": "Chidiebere Nnadi",
+        "url": "https://www.codementor.io/chidieberennadi558/how-to-create-a-plugin-in-vue-js-ehdmg125e"
+      }
+    ]
+  }
+}
